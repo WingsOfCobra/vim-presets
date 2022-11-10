@@ -13,13 +13,13 @@
 
 ###### Unix
 
-
 ```sh
 sudo apt install vim
 ```
 
 #### Vundle
 
+###### Git
 
 ```sh
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
@@ -27,6 +27,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 #### vim-plug
 
+######cURL
 
 ```sh
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
@@ -57,7 +58,7 @@ vim .vimrc
 To Install the Plugs press `:` and type this into your commandline in Vim
 
 ```sh
-PlugInstall
+:PlugInstall
 ```
 
 
@@ -66,7 +67,7 @@ PlugInstall
 To Install the Plugins press `:` and type this into your commandline in Vim
 
 ```sh
-PluginInstall
+:PluginInstall
 ```
 
 
