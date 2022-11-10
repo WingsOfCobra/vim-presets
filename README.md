@@ -118,16 +118,16 @@ Everything should now be set up.
 
 Everyone of these keybinds hast to be executed in ==normal mode==
 
-| Keybind | Description |
-| ----------- | ----------- |
-| `f`  | Toggle Nerdtree |
-| `q` | Close file |
-| `CTRL + q` | Force Close file |
-| `x` | Save and close file  | 
-| `w` | Write file |
-| `CTRL + c` | Copy line |
-| `CTRL + v` | Paste line |
-| `CTRL + y` | Scroll up |
-| `CTRL + e` | Scroll down |
+| Keybind | Description | Mode |
+| ----------- | ----------- | normal |
+| `f`  | Toggle Nerdtree | normal |
+| `q` | Close file | normal |
+| `CTRL + q` | Force Close file | normal |
+| `x` | Save and close file  | normal |
+| `w` | Write file | normal |
+| `CTRL + c` | Copy line | normal |
+| `CTRL + v` | Paste line | normal |
+| `CTRL + y` | Scroll up | normal |
+| `CTRL + e` | Scroll down | normal |
 
 
