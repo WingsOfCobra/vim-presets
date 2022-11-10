@@ -2,7 +2,7 @@
 
 ---
 
-## This is my own Preset for vim. (Author [^1])
+## This is my own Preset for vim. (Author) [^1]
 
 [^1]: The .vimrc author is [Benedikt](https://github.com/FellowFellow)
 
