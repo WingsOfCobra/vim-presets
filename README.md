@@ -76,6 +76,7 @@ To Install the Plugins press `:` and type this into your commandline in Vim
 <br>
 > 🟢 Now everything should be set up. 
 <br>
+
 ---
 
 ## Features
