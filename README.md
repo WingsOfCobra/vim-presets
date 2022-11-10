@@ -73,9 +73,9 @@ To Install the Plugins press `:` and type this into your commandline in Vim
 ```sh
 :PluginInstall
 ```
-
+<br>
 > 🟢 Now everything should be set up. 
-
+<br>
 ---
 
 ## Features
