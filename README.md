@@ -4,7 +4,7 @@
 [^1]: The author of the .vimrc file is [Benedikt](https://github.com/FellowFellow)
 
 ## Table of Contents
-
+> ❗ Don't show this key to anyone that doesn't belong to your organization.
 - [Setup](#setup)
 - [Installing](#installing)
 - [Features](#features)
