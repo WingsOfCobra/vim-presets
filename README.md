@@ -40,10 +40,10 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 #### .vimrc
 
-Move the .vimrc from the Repository into your home directory.
+Copy the .vimrc from the Repository into your home directory.
 
 ```sh
-mv vim-presets/.vimrc ~/
+cp vim-presets/.vimrc ~/
 ```
 
 
