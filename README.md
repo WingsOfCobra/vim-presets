@@ -4,7 +4,6 @@
 [^1]: The author of the .vimrc file is [Benedikt](https://github.com/FellowFellow)
 
 ## Table of Contents
-> ❗ Don't show this key to anyone that doesn't belong to your organization.
 - [Setup](#setup)
 - [Installing](#installing)
 - [Features](#features)
@@ -75,9 +74,7 @@ To Install the Plugins press `:` and type this into your commandline in Vim
 :PluginInstall
 ```
 
-
-
-Everything should now be set up.
+> 👍 Now everything should be set up. 
 
 ---
 
