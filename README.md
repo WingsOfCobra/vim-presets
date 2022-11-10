@@ -4,7 +4,7 @@
 
 ## This is my own Preset for vim. (Author) [^1]
 
-[^1]: The .vimrc author is [Benedikt](https://github.com/FellowFellow)
+[^1]: The author of the .vimrc file is [Benedikt](https://github.com/FellowFellow)
 
 ### Downloads
 
