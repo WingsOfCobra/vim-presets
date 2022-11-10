@@ -3,8 +3,15 @@
 
 [^1]: The author of the .vimrc file is [Benedikt](https://github.com/FellowFellow)
 
-## Setup
+## Table of Contents
 
+- [Setup](#setup)
+- [Installing](#installing)
+- [Features](#features)
+- [Keybinds](#keybinds)
+
+
+## Setup
 
 #### Vim 
 
@@ -32,7 +39,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-### Installing
+## Installing
 
 
 #### .vimrc
