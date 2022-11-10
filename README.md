@@ -28,7 +28,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 #### vim-plug
 
-######cURL
+###### cURL
 
 ```sh
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
