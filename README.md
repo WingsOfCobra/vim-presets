@@ -123,7 +123,7 @@ Everyone of these keybinds hast to be executed in ==normal mode==
 | `f`  | Toggle Nerdtree |
 | `q` | Close file |
 | `CTRL + q` | Force Close file |
-| `x` | Save and close file  |
+| `x` | Save and close file  | 
 | `w` | Write file |
 | `CTRL + c` | Copy line |
 | `CTRL + v` | Paste line |
