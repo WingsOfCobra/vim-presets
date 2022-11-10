@@ -6,7 +6,7 @@
 
 [^1]: The author of the .vimrc file is [Benedikt](https://github.com/FellowFellow)
 
-### Downloads
+## Setup
 
 
 #### Vim 
