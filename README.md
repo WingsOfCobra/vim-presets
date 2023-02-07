@@ -22,15 +22,11 @@ git clone https://github.com/WingsOfCobra/vim-presets.git
 ``` 
 Enter the Folder and make the install.sh file executable
 
-###### Unix
-
 ```sh
 sudo chmod +x install.sh
 ```
 
 Finally execute it
-
-###### Unix
 
 ```sh
 ./install.sh
