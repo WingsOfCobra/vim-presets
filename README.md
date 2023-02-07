@@ -9,6 +9,31 @@
 - [Features](#features)
 - [Keybinds](#keybinds)
 
+## Quickstart
+
+### Its Possible to skip almost all these Setup and install Steps.
+
+Clone the Repository
+
+###### Git
+
+```sh
+git clone https://github.com/WingsOfCobra/vim-presets.git
+``` 
+Enter the Folder and make the install.sh file executable
+
+```sh
+sudo chmod +x install.sh
+```
+
+Finally execute it with `./install.sh`
+
+After that you should automatically enter vim.
+
+Now follow these two last steps
+
+[Installing Plug](#installing-plug)
+[Installing Plugin](#installing-plugin)
 
 ## Setup
 
