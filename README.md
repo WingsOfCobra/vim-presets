@@ -22,18 +22,25 @@ git clone https://github.com/WingsOfCobra/vim-presets.git
 ``` 
 Enter the Folder and make the install.sh file executable
 
+###### Unix
+
 ```sh
 sudo chmod +x install.sh
 ```
 
-Finally execute it with `./install.sh`
+Finally execute it
+
+###### Unix
+
+```sh
+./install.sh
+```
 
 After that you should automatically enter vim.
+Now follow these two last steps to finish upgrading your vim.
 
-Now follow these two last steps
-
-[Installing Plug](#installing-plug)
-[Installing Plugin](#installing-plugin)
+- [Installing Plug](#installing-plug)
+- [Installing Plugin](#installing-plugin)
 
 ## Setup
 
