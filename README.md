@@ -39,6 +39,9 @@ Now follow these two last steps to finish upgrading your vim.
 - [Installing Plug](#installing-plug)
 - [Installing Plugin](#installing-plugin)
 
+----------
+
+
 ## Setup
 
 #### Vim 
